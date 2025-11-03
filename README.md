@@ -23,5 +23,6 @@ Array Dinamis (List): Akan terjadi pengalokasian ulang memori (blok memori baru 
  4. Strategi menampilkan data tertentu?
 Strategi utamanya adalah menggunakan indeks untuk mengakses posisi data spesifik. Untuk mencari atau menampilkan data yang memenuhi kriteria tertentu (misalnya, semua nilai > 80), kita menggunakan perulangan (loop) yang dikombinasikan dengan kondisi (if).
 
- 5. Kesalahan umum dalam penggunaan array?
+ 
+5. Kesalahan umum dalam penggunaan array?
 Kesalahan paling umum adalah Akses di Luar Batas (Index Out of Bounds), yaitu mencoba mengakses elemen menggunakan indeks yang tidak valid (misalnya, mengakses indeks 5 pada array yang hanya memiliki 5 elemen, karena indeks dimulai dari 0 dan berakhir di 4).
