@@ -8,28 +8,6 @@
 
 5. Kesalahan umum dalam penggunaan array?
     
-  
-Gemini
-Percakapan dengan Gemini
-1. Mengapa kita memerlukan array?
-
-
-
-2. Bagaimana array menghemat variabel?
-
-
-
-3. Apa dampak data bertambah pada array?
-
-
-
-4. Strategi menampilkan data tertentu?
-
-
-
-5. Kesalahan umum dalam penggunaan array?
-
-
 
  1. Mengapa kita memerlukan array?
 Kita memerlukan array untuk menyimpan banyak data sejenis di bawah satu nama variabel tunggal. Ini membuat data terorganisir, mudah diakses, dan efisien untuk diolah menggunakan perulangan (loop).
