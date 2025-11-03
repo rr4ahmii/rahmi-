@@ -7,6 +7,9 @@
 4. Strategi menampilkan data tertentu?
 
 5. Kesalahan umum dalam penggunaan array?
+ 
+
+             JAWABANN
     
 
  1. Mengapa kita memerlukan array?
